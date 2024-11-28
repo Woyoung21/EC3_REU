@@ -14,9 +14,9 @@ Denial of Service (DoS) attacks, we expose security loopholes these devices coul
 ---
 
 ## Contents
-- **[Poster](poster/)**: A concise visual representation of the research.
-- **[Paper](paper/)**: In-depth analysis and findings.
-- **[Code](code/)**: Programs created to monitor and provide alerts for LAN security.
+- **Poster**: A concise visual representation of the research.
+- **Tech Write-up**: In-depth analysis and findings.
+- **Code**: Programs created to monitor and provide alerts for LAN security.
 
 ---
 
